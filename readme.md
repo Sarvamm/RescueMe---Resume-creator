@@ -117,3 +117,17 @@ For major changes, please open an issue first to discuss what you’d like to ch
 
 This project is licensed under the Non-Profit Open Software License version 3.0
 
+
+<h1 align="center">About Me</h1>
+
+<p align="center">First year Data Science student specializing in AI and machine learning.
+Experienced in Python, SQL, and data visualization, with hands-on projects in predictive modeling and NLP. 
+Constantly learning and exploring the field of intelligent systems. 
+Open to discussions and collaboration!</p>
+
+<div align="center">
+  📤 Contact: <a href="mailto:srvmrtr@gmail.com">srvmrtr@gmail.com</a><br>
+  ☕ Support me: <a href="https://buymeacoffee.com/astrayn">Buy Me a Coffee</a>
+</div>
+
+

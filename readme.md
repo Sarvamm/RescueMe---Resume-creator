@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 🚀 RescueMé! – LaTeX Resume Generator using Streamlit
 
 Create beautiful, professional resumes using LaTeX – no LaTeX knowledge required!
@@ -10,7 +6,7 @@ RescueMé! is a web app built with [Streamlit](https://streamlit.io/) that lets 
 
 ![RescueMé Banner](https://raw.githubusercontent.com/Sarvamm/rescueme/refs/heads/main/assets/logo.png)
 
----
+
 
 ## 📦 Features
 
